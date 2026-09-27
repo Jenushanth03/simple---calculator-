@@ -1,7 +1,8 @@
 """
 Simple Calculator Application
 Course: COU3303 - Software Engineering
-Author: <your name here>
+Author: L Jenushanth
+__version__="1.1"
 
 A basic GUI calculator built with Python's Tkinter library.
 Supports addition, subtraction, multiplication, division,
